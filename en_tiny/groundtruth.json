@@ -12,7 +12,7 @@
     { "affected-id": "a0.s0.w9", "correct": "a", "p_correct": "ɐ", "space": true},
     { "affected-id": "a0.s0.w10", "correct": "lawyer", "p_correct": "lɔɪɚɹ", "space": true},
     { "affected-id": "a0.s0.w11", "correct": "in", "p_correct": "ɪn", "space": true},
-    { "affected-id": "a0.s0.w12", "correct": "1975", "p_correct": "naɪntiːnhʌndɹəd sɛvənti sɪks", "space": false},
+    { "affected-id": "a0.s0.w12", "correct": "1976", "p_correct": "naɪntiːnhʌndɹəd sɛvənti sɪks", "space": false},
     { "affected-id": "a0.s0.w13", "correct": ".", "p_correct": ".", "space": false},
     { "affected-id": "a1.s0.w0", "correct": "I", "p_correct": "aɪ", "space": true},
     { "affected-id": "a1.s0.w1", "correct": "took", "p_correct": "tʊk", "space": true},
